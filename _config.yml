@@ -1,0 +1,28 @@
+name: powerlab
+favicon: null
+layout_spectrum: 0.3779625298921019
+typography_spectrum: 0.5529494525399059
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.1241459995508194
+  lightness: 0.6650457391515374
+  saturation: 0.29339923220686615
+  rhythmicContrast: 0.4104721515905112
+purpose: []
